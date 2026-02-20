@@ -37,6 +37,11 @@ function App() {
 
       <footer className="app-footer">
         <p>Keep pushing! 💪</p>
+        <div className="credits">
+          Made with 🤖 by ChatGPT and Copilot<br />
+          while <a href="https://github.com/vivekshah1801" target="_blank" rel="noopener noreferrer">Vivek Shah</a> sips his tea.
+          <div className="small">Send him a <a href="https://linkedin.com/in/vivekshah1801" target="_blank" rel="noopener noreferrer">Hi</a>. He likes to talk to AI and Humans.</div>
+        </div>
       </footer>
     </div>
   );
