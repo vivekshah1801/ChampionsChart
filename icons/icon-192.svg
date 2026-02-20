@@ -1,0 +1,5 @@
+<svg width="192" height="192" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" fill="#ffffff"/>
+  <rect x="10" y="10" width="172" height="172" fill="none" stroke="#000" stroke-width="4"/>
+  <text x="96" y="120" font-size="100" text-anchor="middle" fill="#4169E1" font-family="Arial">📊</text>
+</svg>
